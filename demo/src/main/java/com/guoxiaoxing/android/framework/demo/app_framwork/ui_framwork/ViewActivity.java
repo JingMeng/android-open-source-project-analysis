@@ -1,6 +1,6 @@
 package com.guoxiaoxing.android.framework.demo.app_framwork.ui_framwork;
 
-import android.support.v7.app.AppCompatActivity;
+import androidx.appcompat.app.AppCompatActivity;
 import android.os.Bundle;
 import android.util.Log;
 import android.view.ViewTreeObserver;

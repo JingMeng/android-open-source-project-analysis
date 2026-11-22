@@ -3,7 +3,7 @@ package com.guoxiaoxing.android.framework.demo.app_framwork.component_framwork.f
 import android.net.Uri;
 import android.os.Bundle;
 import android.os.PersistableBundle;
-import android.support.v7.app.AppCompatActivity;
+import androidx.appcompat.app.AppCompatActivity;
 import android.view.View;
 
 import com.guoxiaoxing.android.framework.demo.R;

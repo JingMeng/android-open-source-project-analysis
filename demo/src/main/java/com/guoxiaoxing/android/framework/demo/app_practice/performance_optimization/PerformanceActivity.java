@@ -1,6 +1,6 @@
 package com.guoxiaoxing.android.framework.demo.app_practice.performance_optimization;
 
-import android.support.v7.app.AppCompatActivity;
+import androidx.appcompat.app.AppCompatActivity;
 import android.os.Bundle;
 
 import com.guoxiaoxing.android.framework.demo.R;

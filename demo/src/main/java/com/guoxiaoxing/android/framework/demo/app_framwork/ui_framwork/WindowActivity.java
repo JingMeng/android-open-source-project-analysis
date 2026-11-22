@@ -3,7 +3,7 @@ package com.guoxiaoxing.android.framework.demo.app_framwork.ui_framwork;
 import android.content.Context;
 import android.graphics.PixelFormat;
 import android.os.Bundle;
-import android.support.v7.app.AppCompatActivity;
+import androidx.appcompat.app.AppCompatActivity;
 import android.view.MotionEvent;
 import android.view.View;
 import android.view.WindowManager;

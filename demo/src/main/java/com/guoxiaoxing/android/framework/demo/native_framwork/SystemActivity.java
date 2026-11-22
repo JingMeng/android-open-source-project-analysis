@@ -1,6 +1,6 @@
 package com.guoxiaoxing.android.framework.demo.native_framwork;
 
-import android.support.v7.app.AppCompatActivity;
+import androidx.appcompat.app.AppCompatActivity;
 import android.os.Bundle;
 import android.view.View;
 
@@ -24,3 +24,4 @@ public class SystemActivity extends AppCompatActivity implements View.OnClickLis
         }
     }
 }
+

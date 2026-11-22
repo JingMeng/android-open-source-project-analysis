@@ -1,7 +1,7 @@
 package com.guoxiaoxing.android.framework.demo.app_practice.ui_develop;
 
 import android.content.Intent;
-import android.support.v7.app.AppCompatActivity;
+import androidx.appcompat.app.AppCompatActivity;
 import android.os.Bundle;
 import android.view.View;
 
